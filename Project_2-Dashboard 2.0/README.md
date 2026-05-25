@@ -1,49 +1,43 @@
-# Data Jobs Dashboard 2.0 w/ Power BI
+# Data Jobs Dashboard 2.0 with Power BI
 
-<a href="https://lukeb.co/powerbi-project2" target="_blank">
-  <img src="../Resources/images/Project2_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
-</a>
-
-> <a href="https://lukeb.co/powerbi-project2" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
-
+> A single-page Power BI dashboard for exploring 2024 data science job trends, salary insights, and skill demand.
 
 ## Introduction
 
-Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 data science job postings—rich with details on titles, salaries, and locations—this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
+Navigating the data job market can feel overwhelming when information is scattered across multiple sources. This dashboard is designed for job seekers, job transitioners, and job swappers who want a clear and focused view of the market.
 
-### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix).  
+Using a real-world dataset of 2024 data science job postings, this project presents key insights about job titles, salaries, locations, and in-demand skills in a simple single-page layout.
+
+## Dashboard File
+
+You can find the Power BI file here: [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix)
 
 ## Skills Showcased
 
-This project put key Power BI features into practice. Here's what we mastered:
+This project demonstrates practical Power BI skills, including:
 
-* **🎨 Dashboard Design:** Crafting an intuitive and visually appealing report layout.
-* **⚙️ Power Query ETL:** Performing data cleaning, shaping, and transformation.
-* **🔗 Data Modeling:** Building efficient data models with relationships (Star Schema principles).
-* **🧮 DAX Fundamentals:** Creating calculations and aggregations to derive key insights.
-* **📊 Visualizations Utilized:**
-    * **📈 Core Charts:** Column, Bar, Line, and Area charts for comparisons and trends.
-    * **🗺️ Map Charts:** For displaying geospatial data.
-    * **🔢 Cards:** To highlight key performance indicators.
-    * **📋 Tables:** For presenting detailed, tabular information.
-    * **🎨 Chart Variety:** Selecting from common and uncommon chart types for effective storytelling.
-* **🖱️ Interactive Features:**
-    * **🎚️ Slicers:** Enabling dynamic, user-driven data filtering.
-    * **🔘 Buttons & Bookmarks:** For streamlined navigation and managing report views (including Drill-Through).
----
+- Dashboard design with a clean and intuitive layout.
+- Power Query ETL for data cleaning, shaping, and transformation.
+- Data modeling using relationships and star schema principles.
+- DAX calculations for measures and aggregations.
+- Data visualization using column, bar, line, area, map, card, and table visuals.
+- Interactive reporting with slicers, buttons, bookmarks, and drill-through navigation.
 
-## Dashboard Overview (Version 2.0 - Single Page Focus)
+## Dashboard Overview
 
-This second iteration consolidates the dashboard into a **single, focused page**, designed to give job seekers the most critical market insights at their fingertips.
+This version focuses on a single-page report that highlights the most important market insights in one place.
 
-![Data Jobs Dashboard v2.0](../Resources/images/Project2_Dashboard_Page1.png) 
+It includes key metrics such as:
+- Job Count.
+- Skills Per Job.
+- Median Yearly Salary.
+- Median Hourly Salary.
 
-This page acts as your concise mission control for the data job market. It showcases key performance indicators (KPIs) like **Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary**. You can also quickly see **Skill Popularity** (by job percent or count) and compare **Salaries across different Job Titles**, all designed for an efficient overview.
-
----
+It also helps users analyze:
+- Skill popularity by job count or percentage.
+- Salary differences across job titles.
+- Market trends through interactive filtering.
 
 ## Conclusion
 
-This updated dashboard (Version 2.0) showcases Power BI's ability to transform extensive job posting data into a powerful, streamlined tool for career analysis. It empowers **Job Seekers, Job Transitioners, and Job Swappers** by allowing them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.
-
+This dashboard transforms job posting data into a practical career analysis tool. It is built to help job seekers, job transitioners, and job swappers quickly explore essential insights and make better decisions about their next move.
